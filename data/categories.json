@@ -1,0 +1,320 @@
+[
+    {
+        "_id": "1",
+        "picture": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+        "name": "Jii Hoon",
+        "experience": "5 years",
+        "total_recipe": 10,
+        "likes": 1000,
+        "recipe": [
+            {
+                "recipe_id": "1",
+                "recipe_name": "Mustard Greens kimchi",
+                "ingredients": [
+                    "2 pounds mustard greens",
+                    "3 tablespoons kosher salt",
+                    "1 cup anchovy kelp stock",
+                    "1 tablespoon glutinous rice flour",
+                    "1 tablespoon sugar"
+                ],
+                "cooking_method": "Rinse the mustard greens in cold water. Drain, and put them into a large bowl. Sprinkle with the salt, more on thick part of the leaves. Mix well with both hands and let stand for 2 hours, turning every 30 minutes to salt evenly. Combine the glutinous flour and the stock in a small saucepan and place over medium-high heat. Stir until the mixture begins to bubble, about 2 minutes. Add the sugar and stir for 30 seconds until the mixture is slightly translucent. Stir in the fish sauce. Remove from the heat, scrape into a large bowl, and let it cool. Once the kimchi is fermented, keep in the refrigerator. The kimchi will continue to ferment in the refrigerator and become more sour as time passes.",
+                "ratings": 4.5,
+                "recipe_img": "https://www.maangchi.com/wp-content/uploads/2023/03/gat-kimchi-650x366.jpg"
+            },
+            {
+                "recipe_id": "2",
+                "recipe_name": "Green onion kimchi",
+                "ingredients": [
+                    "3 pounds green onions, roots trimmed",
+                    "1 cup fish sauce",
+                    "1 cup glutinous rice flour",
+                    "2 tablespoons white or brown sugar",
+                    "1 cup gochugaru "
+                ],
+                "cooking_method": "Cut off the roots of green onions.  Remove any tough outer layers of green onions and discard. Cut them into halves crosswise. Wash the green onions in a couple changes of cold water. Drain and put them in a large bowl. Mix with the fish sauce with both hands. Let stand for 1 hour, turning over every 20 minutes to salt evenly. Add the green onions and gently toss and mix together by hand (wear disposable gloves if you like. You can serve the kimchi right away or let it ferment. It takes about 2 weeks to ferment in the refrigerator. For faster fermenting, leave it at room temperature for 5 to 7 days, depending on the warmth of your kitchen, until the kimchi tastes and smells sour. Once the kimchi is fermented, store it the refrigerator and enjoy it until it runs out. It goes well with fresh, warm rice!",
+                "ratings": 4.2,
+                "recipe_img": "https://www.maangchi.com/wp-content/uploads/2021/07/pa-kimchi-650x366.jpg"
+            },
+            {
+                "recipe_id": "3",
+                "recipe_name": "Chayote kimchi",
+                "ingredients": [
+                    "3 pounds deseeded chayotes",
+                    "2 tablespoons",
+                    "4 garlic cloves",
+                    "1 teaspoon peeled ginger",
+                    "⅓ cup worth onion",
+                    "4 green onions, sliced diagonally"
+                ],
+                "cooking_method": "Cut a chayote in half lengthwise and remove the inner seed. Slice each half into ½ inch thick pieces lengthwise and then cut each piece crosswise into roughly ½ inch cubes. Transfer the cubes to a large bowl. Repeat with the rest of chayotes. Add 2 tablespoons kosher salt and mix well. Let sit for 30 minutes, turning it over every 10 minutes to salt evenly. Pour out the excess brine to a blender. Add garlic, ginger, onion, and fish sauce (or soy sauce). Blend 1 minute until soft and creamy.Add the mixture to the chayote chunks. Add gochu-garu (Korean hot pepper flakes), green onion, and mix all together by hand. You can wear a disposable glove if desired. Transfer it to a jar or an airtight container. Press down the top of the kimchi and cover.",
+                "ratings": 4.2,
+                "recipe_img": "https://www.maangchi.com/wp-content/uploads/2020/01/chayote-kkakdugi-insta-650x650.jpg"
+            }
+        ]
+    },
+    {
+        "_id": "2",
+        "picture": "https://images.unsplash.com/photo-1566554273541-37a9ca77b91f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "name": "Jii Woo",
+        "experience": "5 years",
+        "total_recipe": 10,
+        "likes": 1000,
+        "recipe": [
+            {
+                "recipe_id": "1",
+                "recipe_name": "Mustard Greens kimchi",
+                "ingredients": [
+                    "2 pounds mustard greens",
+                    "3 tablespoons kosher salt",
+                    "1 cup anchovy kelp stock",
+                    "1 tablespoon glutinous rice flour",
+                    "1 tablespoon sugar"
+                ],
+                "cooking_method": "Rinse the mustard greens in cold water. Drain, and put them into a large bowl. Sprinkle with the salt, more on thick part of the leaves. Mix well with both hands and let stand for 2 hours, turning every 30 minutes to salt evenly. Combine the glutinous flour and the stock in a small saucepan and place over medium-high heat. Stir until the mixture begins to bubble, about 2 minutes. Add the sugar and stir for 30 seconds until the mixture is slightly translucent. Stir in the fish sauce. Remove from the heat, scrape into a large bowl, and let it cool. Once the kimchi is fermented, keep in the refrigerator. The kimchi will continue to ferment in the refrigerator and become more sour as time passes.",
+                "ratings": 4.5,
+                "recipe_img": "https://www.maangchi.com/wp-content/uploads/2023/03/gat-kimchi-650x366.jpg"
+            },
+            {
+                "recipe_id": "2",
+                "recipe_name": "Green onion kimchi",
+                "ingredients": [
+                    "3 pounds green onions, roots trimmed",
+                    "1 cup fish sauce",
+                    "1 cup glutinous rice flour",
+                    "2 tablespoons white or brown sugar",
+                    "1 cup gochugaru "
+                ],
+                "cooking_method": "Cut off the roots of green onions.  Remove any tough outer layers of green onions and discard. Cut them into halves crosswise. Wash the green onions in a couple changes of cold water. Drain and put them in a large bowl. Mix with the fish sauce with both hands. Let stand for 1 hour, turning over every 20 minutes to salt evenly. Add the green onions and gently toss and mix together by hand (wear disposable gloves if you like. You can serve the kimchi right away or let it ferment. It takes about 2 weeks to ferment in the refrigerator. For faster fermenting, leave it at room temperature for 5 to 7 days, depending on the warmth of your kitchen, until the kimchi tastes and smells sour. Once the kimchi is fermented, store it the refrigerator and enjoy it until it runs out. It goes well with fresh, warm rice!",
+                "ratings": 4.2,
+                "recipe_img": "https://www.maangchi.com/wp-content/uploads/2021/07/pa-kimchi-650x366.jpg"
+            },
+            {
+                "recipe_id": "3",
+                "recipe_name": "Chayote kimchi",
+                "ingredients": [
+                    "3 pounds deseeded chayotes",
+                    "2 tablespoons",
+                    "4 garlic cloves",
+                    "1 teaspoon peeled ginger",
+                    "⅓ cup worth onion",
+                    "4 green onions, sliced diagonally"
+                ],
+                "cooking_method": "Cut a chayote in half lengthwise and remove the inner seed. Slice each half into ½ inch thick pieces lengthwise and then cut each piece crosswise into roughly ½ inch cubes. Transfer the cubes to a large bowl. Repeat with the rest of chayotes. Add 2 tablespoons kosher salt and mix well. Let sit for 30 minutes, turning it over every 10 minutes to salt evenly. Pour out the excess brine to a blender. Add garlic, ginger, onion, and fish sauce (or soy sauce). Blend 1 minute until soft and creamy.Add the mixture to the chayote chunks. Add gochu-garu (Korean hot pepper flakes), green onion, and mix all together by hand. You can wear a disposable glove if desired. Transfer it to a jar or an airtight container. Press down the top of the kimchi and cover.",
+                "ratings": 4.2,
+                "recipe_img": "https://www.maangchi.com/wp-content/uploads/2020/01/chayote-kkakdugi-insta-650x650.jpg"
+            }
+        ]
+    },
+    {
+        "_id": "3",
+        "picture": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "name": "Sung Jinn",
+        "experience": "5 years",
+        "total_recipe": 10,
+        "likes": 1000,
+        "recipe": [
+            {
+                "recipe_id": "1",
+                "recipe_name": "Mustard Greens kimchi",
+                "ingredients": [
+                    "2 pounds mustard greens",
+                    "3 tablespoons kosher salt",
+                    "1 cup anchovy kelp stock",
+                    "1 tablespoon glutinous rice flour",
+                    "1 tablespoon sugar"
+                ],
+                "cooking_method": "Rinse the mustard greens in cold water. Drain, and put them into a large bowl. Sprinkle with the salt, more on thick part of the leaves. Mix well with both hands and let stand for 2 hours, turning every 30 minutes to salt evenly. Combine the glutinous flour and the stock in a small saucepan and place over medium-high heat. Stir until the mixture begins to bubble, about 2 minutes. Add the sugar and stir for 30 seconds until the mixture is slightly translucent. Stir in the fish sauce. Remove from the heat, scrape into a large bowl, and let it cool. Once the kimchi is fermented, keep in the refrigerator. The kimchi will continue to ferment in the refrigerator and become more sour as time passes.",
+                "ratings": 4.5,
+                "recipe_img": "https://www.maangchi.com/wp-content/uploads/2023/03/gat-kimchi-650x366.jpg"
+            },
+            {
+                "recipe_id": "2",
+                "recipe_name": "Green onion kimchi",
+                "ingredients": [
+                    "3 pounds green onions, roots trimmed",
+                    "1 cup fish sauce",
+                    "1 cup glutinous rice flour",
+                    "2 tablespoons white or brown sugar",
+                    "1 cup gochugaru "
+                ],
+                "cooking_method": "Cut off the roots of green onions.  Remove any tough outer layers of green onions and discard. Cut them into halves crosswise. Wash the green onions in a couple changes of cold water. Drain and put them in a large bowl. Mix with the fish sauce with both hands. Let stand for 1 hour, turning over every 20 minutes to salt evenly. Add the green onions and gently toss and mix together by hand (wear disposable gloves if you like. You can serve the kimchi right away or let it ferment. It takes about 2 weeks to ferment in the refrigerator. For faster fermenting, leave it at room temperature for 5 to 7 days, depending on the warmth of your kitchen, until the kimchi tastes and smells sour. Once the kimchi is fermented, store it the refrigerator and enjoy it until it runs out. It goes well with fresh, warm rice!",
+                "ratings": 4.2,
+                "recipe_img": "https://www.maangchi.com/wp-content/uploads/2021/07/pa-kimchi-650x366.jpg"
+            },
+            {
+                "recipe_id": "3",
+                "recipe_name": "Chayote kimchi",
+                "ingredients": [
+                    "3 pounds deseeded chayotes",
+                    "2 tablespoons",
+                    "4 garlic cloves",
+                    "1 teaspoon peeled ginger",
+                    "⅓ cup worth onion",
+                    "4 green onions, sliced diagonally"
+                ],
+                "cooking_method": "Cut a chayote in half lengthwise and remove the inner seed. Slice each half into ½ inch thick pieces lengthwise and then cut each piece crosswise into roughly ½ inch cubes. Transfer the cubes to a large bowl. Repeat with the rest of chayotes. Add 2 tablespoons kosher salt and mix well. Let sit for 30 minutes, turning it over every 10 minutes to salt evenly. Pour out the excess brine to a blender. Add garlic, ginger, onion, and fish sauce (or soy sauce). Blend 1 minute until soft and creamy.Add the mixture to the chayote chunks. Add gochu-garu (Korean hot pepper flakes), green onion, and mix all together by hand. You can wear a disposable glove if desired. Transfer it to a jar or an airtight container. Press down the top of the kimchi and cover.",
+                "ratings": 4.2,
+                "recipe_img": "https://www.maangchi.com/wp-content/uploads/2020/01/chayote-kkakdugi-insta-650x650.jpg"
+            }
+        ]
+    },
+    {
+        "_id": "4",
+        "picture": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "name": "Jii Hyee",
+        "experience": "5 years",
+        "total_recipe": 10,
+        "likes": 1000,
+        "recipe": [
+            {
+                "recipe_id": "1",
+                "recipe_name": "Mustard Greens kimchi",
+                "ingredients": [
+                    "2 pounds mustard greens",
+                    "3 tablespoons kosher salt",
+                    "1 cup anchovy kelp stock",
+                    "1 tablespoon glutinous rice flour",
+                    "1 tablespoon sugar"
+                ],
+                "cooking_method": "Rinse the mustard greens in cold water. Drain, and put them into a large bowl. Sprinkle with the salt, more on thick part of the leaves. Mix well with both hands and let stand for 2 hours, turning every 30 minutes to salt evenly. Combine the glutinous flour and the stock in a small saucepan and place over medium-high heat. Stir until the mixture begins to bubble, about 2 minutes. Add the sugar and stir for 30 seconds until the mixture is slightly translucent. Stir in the fish sauce. Remove from the heat, scrape into a large bowl, and let it cool. Once the kimchi is fermented, keep in the refrigerator. The kimchi will continue to ferment in the refrigerator and become more sour as time passes.",
+                "ratings": 4.5,
+                "recipe_img": "https://www.maangchi.com/wp-content/uploads/2023/03/gat-kimchi-650x366.jpg"
+            },
+            {
+                "recipe_id": "2",
+                "recipe_name": "Green onion kimchi",
+                "ingredients": [
+                    "3 pounds green onions, roots trimmed",
+                    "1 cup fish sauce",
+                    "1 cup glutinous rice flour",
+                    "2 tablespoons white or brown sugar",
+                    "1 cup gochugaru "
+                ],
+                "cooking_method": "Cut off the roots of green onions.  Remove any tough outer layers of green onions and discard. Cut them into halves crosswise. Wash the green onions in a couple changes of cold water. Drain and put them in a large bowl. Mix with the fish sauce with both hands. Let stand for 1 hour, turning over every 20 minutes to salt evenly. Add the green onions and gently toss and mix together by hand (wear disposable gloves if you like. You can serve the kimchi right away or let it ferment. It takes about 2 weeks to ferment in the refrigerator. For faster fermenting, leave it at room temperature for 5 to 7 days, depending on the warmth of your kitchen, until the kimchi tastes and smells sour. Once the kimchi is fermented, store it the refrigerator and enjoy it until it runs out. It goes well with fresh, warm rice!",
+                "ratings": 4.2,
+                "recipe_img": "https://www.maangchi.com/wp-content/uploads/2021/07/pa-kimchi-650x366.jpg"
+            },
+            {
+                "recipe_id": "3",
+                "recipe_name": "Chayote kimchi",
+                "ingredients": [
+                    "3 pounds deseeded chayotes",
+                    "2 tablespoons",
+                    "4 garlic cloves",
+                    "1 teaspoon peeled ginger",
+                    "⅓ cup worth onion",
+                    "4 green onions, sliced diagonally"
+                ],
+                "cooking_method": "Cut a chayote in half lengthwise and remove the inner seed. Slice each half into ½ inch thick pieces lengthwise and then cut each piece crosswise into roughly ½ inch cubes. Transfer the cubes to a large bowl. Repeat with the rest of chayotes. Add 2 tablespoons kosher salt and mix well. Let sit for 30 minutes, turning it over every 10 minutes to salt evenly. Pour out the excess brine to a blender. Add garlic, ginger, onion, and fish sauce (or soy sauce). Blend 1 minute until soft and creamy.Add the mixture to the chayote chunks. Add gochu-garu (Korean hot pepper flakes), green onion, and mix all together by hand. You can wear a disposable glove if desired. Transfer it to a jar or an airtight container. Press down the top of the kimchi and cover.",
+                "ratings": 4.2,
+                "recipe_img": "https://www.maangchi.com/wp-content/uploads/2020/01/chayote-kkakdugi-insta-650x650.jpg"
+            }
+        ]
+    },
+    {
+        "_id": "5",
+        "picture": "https://images.unsplash.com/photo-1595273670150-bd0c3c392e46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1987&q=80",
+        "name": "Hyun Woo",
+        "experience": "5 years",
+        "total_recipe": 10,
+        "likes": 1000,
+        "recipe": [
+            {
+                "recipe_id": "1",
+                "recipe_name": "Mustard Greens kimchi",
+                "ingredients": [
+                    "2 pounds mustard greens",
+                    "3 tablespoons kosher salt",
+                    "1 cup anchovy kelp stock",
+                    "1 tablespoon glutinous rice flour",
+                    "1 tablespoon sugar"
+                ],
+                "cooking_method": "Rinse the mustard greens in cold water. Drain, and put them into a large bowl. Sprinkle with the salt, more on thick part of the leaves. Mix well with both hands and let stand for 2 hours, turning every 30 minutes to salt evenly. Combine the glutinous flour and the stock in a small saucepan and place over medium-high heat. Stir until the mixture begins to bubble, about 2 minutes. Add the sugar and stir for 30 seconds until the mixture is slightly translucent. Stir in the fish sauce. Remove from the heat, scrape into a large bowl, and let it cool. Once the kimchi is fermented, keep in the refrigerator. The kimchi will continue to ferment in the refrigerator and become more sour as time passes.",
+                "ratings": 4.5,
+                "recipe_img": "https://www.maangchi.com/wp-content/uploads/2023/03/gat-kimchi-650x366.jpg"
+            },
+            {
+                "recipe_id": "2",
+                "recipe_name": "Green onion kimchi",
+                "ingredients": [
+                    "3 pounds green onions, roots trimmed",
+                    "1 cup fish sauce",
+                    "1 cup glutinous rice flour",
+                    "2 tablespoons white or brown sugar",
+                    "1 cup gochugaru "
+                ],
+                "cooking_method": "Cut off the roots of green onions.  Remove any tough outer layers of green onions and discard. Cut them into halves crosswise. Wash the green onions in a couple changes of cold water. Drain and put them in a large bowl. Mix with the fish sauce with both hands. Let stand for 1 hour, turning over every 20 minutes to salt evenly. Add the green onions and gently toss and mix together by hand (wear disposable gloves if you like. You can serve the kimchi right away or let it ferment. It takes about 2 weeks to ferment in the refrigerator. For faster fermenting, leave it at room temperature for 5 to 7 days, depending on the warmth of your kitchen, until the kimchi tastes and smells sour. Once the kimchi is fermented, store it the refrigerator and enjoy it until it runs out. It goes well with fresh, warm rice!",
+                "ratings": 4.2,
+                "recipe_img": "https://www.maangchi.com/wp-content/uploads/2021/07/pa-kimchi-650x366.jpg"
+            },
+            {
+                "recipe_id": "3",
+                "recipe_name": "Chayote kimchi",
+                "ingredients": [
+                    "3 pounds deseeded chayotes",
+                    "2 tablespoons",
+                    "4 garlic cloves",
+                    "1 teaspoon peeled ginger",
+                    "⅓ cup worth onion",
+                    "4 green onions, sliced diagonally"
+                ],
+                "cooking_method": "Cut a chayote in half lengthwise and remove the inner seed. Slice each half into ½ inch thick pieces lengthwise and then cut each piece crosswise into roughly ½ inch cubes. Transfer the cubes to a large bowl. Repeat with the rest of chayotes. Add 2 tablespoons kosher salt and mix well. Let sit for 30 minutes, turning it over every 10 minutes to salt evenly. Pour out the excess brine to a blender. Add garlic, ginger, onion, and fish sauce (or soy sauce). Blend 1 minute until soft and creamy.Add the mixture to the chayote chunks. Add gochu-garu (Korean hot pepper flakes), green onion, and mix all together by hand. You can wear a disposable glove if desired. Transfer it to a jar or an airtight container. Press down the top of the kimchi and cover.",
+                "ratings": 4.2,
+                "recipe_img": "https://www.maangchi.com/wp-content/uploads/2020/01/chayote-kkakdugi-insta-650x650.jpg"
+            }
+        ]
+    },
+    {
+        "_id": "6",
+        "picture": "https://images.unsplash.com/photo-1617473345933-609b7153daf4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1039&q=80",
+        "name": "Eun Jii",
+        "experience": "5 years",
+        "total_recipe": 10,
+        "likes": 1000,
+        "recipe": [
+            {
+                "recipe_id": "1",
+                "recipe_name": "Mustard Greens kimchi",
+                "ingredients": [
+                    "2 pounds mustard greens",
+                    "3 tablespoons kosher salt",
+                    "1 cup anchovy kelp stock",
+                    "1 tablespoon glutinous rice flour",
+                    "1 tablespoon sugar"
+                ],
+                "cooking_method": "Rinse the mustard greens in cold water. Drain, and put them into a large bowl. Sprinkle with the salt, more on thick part of the leaves. Mix well with both hands and let stand for 2 hours, turning every 30 minutes to salt evenly. Combine the glutinous flour and the stock in a small saucepan and place over medium-high heat. Stir until the mixture begins to bubble, about 2 minutes. Add the sugar and stir for 30 seconds until the mixture is slightly translucent. Stir in the fish sauce. Remove from the heat, scrape into a large bowl, and let it cool. Once the kimchi is fermented, keep in the refrigerator. The kimchi will continue to ferment in the refrigerator and become more sour as time passes.",
+                "ratings": 4.5,
+                "recipe_img": "https://www.maangchi.com/wp-content/uploads/2023/03/gat-kimchi-650x366.jpg"
+            },
+            {
+                "recipe_id": "2",
+                "recipe_name": "Green onion kimchi",
+                "ingredients": [
+                    "3 pounds green onions, roots trimmed",
+                    "1 cup fish sauce",
+                    "1 cup glutinous rice flour",
+                    "2 tablespoons white or brown sugar",
+                    "1 cup gochugaru "
+                ],
+                "cooking_method": "Cut off the roots of green onions.  Remove any tough outer layers of green onions and discard. Cut them into halves crosswise. Wash the green onions in a couple changes of cold water. Drain and put them in a large bowl. Mix with the fish sauce with both hands. Let stand for 1 hour, turning over every 20 minutes to salt evenly. Add the green onions and gently toss and mix together by hand (wear disposable gloves if you like. You can serve the kimchi right away or let it ferment. It takes about 2 weeks to ferment in the refrigerator. For faster fermenting, leave it at room temperature for 5 to 7 days, depending on the warmth of your kitchen, until the kimchi tastes and smells sour. Once the kimchi is fermented, store it the refrigerator and enjoy it until it runs out. It goes well with fresh, warm rice!",
+                "ratings": 4.2,
+                "recipe_img": "https://www.maangchi.com/wp-content/uploads/2021/07/pa-kimchi-650x366.jpg"
+            },
+            {
+                "recipe_id": "3",
+                "recipe_name": "Chayote kimchi",
+                "ingredients": [
+                    "3 pounds deseeded chayotes",
+                    "2 tablespoons",
+                    "4 garlic cloves",
+                    "1 teaspoon peeled ginger",
+                    "⅓ cup worth onion",
+                    "4 green onions, sliced diagonally"
+                ],
+                "cooking_method": "Cut a chayote in half lengthwise and remove the inner seed. Slice each half into ½ inch thick pieces lengthwise and then cut each piece crosswise into roughly ½ inch cubes. Transfer the cubes to a large bowl. Repeat with the rest of chayotes. Add 2 tablespoons kosher salt and mix well. Let sit for 30 minutes, turning it over every 10 minutes to salt evenly. Pour out the excess brine to a blender. Add garlic, ginger, onion, and fish sauce (or soy sauce). Blend 1 minute until soft and creamy.Add the mixture to the chayote chunks. Add gochu-garu (Korean hot pepper flakes), green onion, and mix all together by hand. You can wear a disposable glove if desired. Transfer it to a jar or an airtight container. Press down the top of the kimchi and cover.",
+                "ratings": 4.2,
+                "recipe_img": "https://www.maangchi.com/wp-content/uploads/2020/01/chayote-kkakdugi-insta-650x650.jpg"
+            }
+        ]
+    }
+]
